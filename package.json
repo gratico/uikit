@@ -1,6 +1,6 @@
 {
   "name": "@gratico/uikit",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "author": "Abhishiv Saxena<abhishiv@gmail.com>",
   "description": "UIKit for gratico",
   "license": "UNLICENSED",
@@ -28,6 +28,7 @@
     "build": "make build"
   },
   "dependencies": {
+    "@emotion/react": "^11.8.1",
     "@emotion/styled": "^11.8.1",
     "@rehooks/component-size": "^1.0.3",
     "react-spring": "^9.4.3",

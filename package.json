@@ -31,6 +31,7 @@
     "@emotion/styled": "^11.8.1",
     "@rehooks/component-size": "^1.0.3",
     "react-spring": "^9.4.3",
+    "theme-ui": "^0.13.1",
     "use-resize-observer": "^8.0.0"
   },
   "peerDependencies": {
